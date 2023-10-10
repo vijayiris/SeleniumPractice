@@ -22,6 +22,7 @@ public class GeoLocation {
 		
 		driver.manage().window().maximize();
 		driver.get("https://oldnavy.gap.com/stores");
+		System.out.println("Hello checkIn");
 		
 
 	}
